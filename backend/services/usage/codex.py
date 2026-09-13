@@ -4,7 +4,7 @@ import shutil
 from typing import Any, Optional
 
 from models.usage import ProviderUsage, UsageCapabilities, UsageWindow
-from utils.cli import is_codex_logged_in
+from utils.cli import WINDOWS_NO_CONSOLE, is_codex_logged_in
 from utils.time import now_iso, unix_seconds_to_iso
 
 from .base import UsageProvider
@@ -34,6 +34,7 @@ async def _call_rate_limits() -> dict[str, Any]:
         stdin=asyncio.subprocess.PIPE,
         stdout=asyncio.subprocess.PIPE,
         stderr=asyncio.subprocess.PIPE,
+        **WINDOWS_NO_CONSOLE,
     )
 
     async def send(msg: dict[str, Any]) -> None:

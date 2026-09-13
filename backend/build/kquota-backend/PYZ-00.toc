@@ -1,4 +1,4 @@
-('C:\\Development projects\\Kquota\\backend\\build\\kquota-backend\\PYZ-00.pyz',
+('M:\\Development Projects\\Kquota\\backend\\build\\kquota-backend\\PYZ-00.pyz',
  [('__future__',
    'C:\\Program Files\\Python312\\Lib\\__future__.py',
    'PYMODULE'),
@@ -12,12 +12,12 @@
    'C:\\Program Files\\Python312\\Lib\\_compression.py',
    'PYMODULE'),
   ('_distutils_hack',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\_distutils_hack\\__init__.py',
    'PYMODULE'),
   ('_distutils_hack.override',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\_distutils_hack\\override.py',
    'PYMODULE'),
   ('_osx_support',
    'C:\\Program Files\\Python312\\Lib\\_osx_support.py',
@@ -37,192 +37,192 @@
    'C:\\Program Files\\Python312\\Lib\\_threading_local.py',
    'PYMODULE'),
   ('annotated_types',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\annotated_types\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\annotated_types\\__init__.py',
    'PYMODULE'),
   ('anyio',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\__init__.py',
    'PYMODULE'),
   ('anyio._backends',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_backends\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_backends\\__init__.py',
    'PYMODULE'),
   ('anyio._backends._asyncio',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_backends\\_asyncio.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_backends\\_asyncio.py',
    'PYMODULE'),
   ('anyio._backends._trio',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_backends\\_trio.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_backends\\_trio.py',
    'PYMODULE'),
   ('anyio._core',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\__init__.py',
    'PYMODULE'),
   ('anyio._core._asyncio_selector_thread',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_asyncio_selector_thread.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_asyncio_selector_thread.py',
    'PYMODULE'),
   ('anyio._core._concurrency_utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_concurrency_utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_concurrency_utils.py',
    'PYMODULE'),
   ('anyio._core._contextmanagers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_contextmanagers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_contextmanagers.py',
    'PYMODULE'),
   ('anyio._core._eventloop',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_eventloop.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_eventloop.py',
    'PYMODULE'),
   ('anyio._core._exceptions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_exceptions.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_exceptions.py',
    'PYMODULE'),
   ('anyio._core._fileio',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_fileio.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_fileio.py',
    'PYMODULE'),
   ('anyio._core._futures',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_futures.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_futures.py',
    'PYMODULE'),
   ('anyio._core._resources',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_resources.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_resources.py',
    'PYMODULE'),
   ('anyio._core._signals',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_signals.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_signals.py',
    'PYMODULE'),
   ('anyio._core._sockets',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_sockets.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_sockets.py',
    'PYMODULE'),
   ('anyio._core._streams',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_streams.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_streams.py',
    'PYMODULE'),
   ('anyio._core._subprocesses',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_subprocesses.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_subprocesses.py',
    'PYMODULE'),
   ('anyio._core._synchronization',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_synchronization.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_synchronization.py',
    'PYMODULE'),
   ('anyio._core._tasks',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_tasks.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_tasks.py',
    'PYMODULE'),
   ('anyio._core._tempfile',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_tempfile.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_tempfile.py',
    'PYMODULE'),
   ('anyio._core._testing',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_testing.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_testing.py',
    'PYMODULE'),
   ('anyio._core._typedattr',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_typedattr.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_core\\_typedattr.py',
    'PYMODULE'),
   ('anyio._lazyimport',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_lazyimport.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\_lazyimport.py',
    'PYMODULE'),
   ('anyio.abc',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\__init__.py',
    'PYMODULE'),
   ('anyio.abc._eventloop',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_eventloop.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_eventloop.py',
    'PYMODULE'),
   ('anyio.abc._resources',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_resources.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_resources.py',
    'PYMODULE'),
   ('anyio.abc._sockets',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_sockets.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_sockets.py',
    'PYMODULE'),
   ('anyio.abc._streams',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_streams.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_streams.py',
    'PYMODULE'),
   ('anyio.abc._subprocesses',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_subprocesses.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_subprocesses.py',
    'PYMODULE'),
   ('anyio.abc._tasks',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_tasks.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_tasks.py',
    'PYMODULE'),
   ('anyio.abc._testing',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_testing.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\abc\\_testing.py',
    'PYMODULE'),
   ('anyio.from_thread',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\from_thread.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\from_thread.py',
    'PYMODULE'),
   ('anyio.functools',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\functools.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\functools.py',
    'PYMODULE'),
   ('anyio.itertools',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\itertools.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\itertools.py',
    'PYMODULE'),
   ('anyio.lowlevel',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\lowlevel.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\lowlevel.py',
    'PYMODULE'),
   ('anyio.streams',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\streams\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\streams\\__init__.py',
    'PYMODULE'),
   ('anyio.streams.buffered',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\streams\\buffered.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\streams\\buffered.py',
    'PYMODULE'),
   ('anyio.streams.memory',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\streams\\memory.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\streams\\memory.py',
    'PYMODULE'),
   ('anyio.streams.stapled',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\streams\\stapled.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\streams\\stapled.py',
    'PYMODULE'),
   ('anyio.streams.tls',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\streams\\tls.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\streams\\tls.py',
    'PYMODULE'),
   ('anyio.to_interpreter',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\to_interpreter.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\to_interpreter.py',
    'PYMODULE'),
   ('anyio.to_process',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\to_process.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\to_process.py',
    'PYMODULE'),
   ('anyio.to_thread',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\to_thread.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\anyio\\to_thread.py',
    'PYMODULE'),
   ('api',
-   'C:\\Development projects\\Kquota\\backend\\api\\__init__.py',
+   'M:\\Development Projects\\Kquota\\backend\\api\\__init__.py',
    'PYMODULE'),
   ('api.auth',
-   'C:\\Development projects\\Kquota\\backend\\api\\auth.py',
+   'M:\\Development Projects\\Kquota\\backend\\api\\auth.py',
    'PYMODULE'),
   ('api.status',
-   'C:\\Development projects\\Kquota\\backend\\api\\status.py',
+   'M:\\Development Projects\\Kquota\\backend\\api\\status.py',
    'PYMODULE'),
   ('api.usage',
-   'C:\\Development projects\\Kquota\\backend\\api\\usage.py',
+   'M:\\Development Projects\\Kquota\\backend\\api\\usage.py',
    'PYMODULE'),
   ('argparse', 'C:\\Program Files\\Python312\\Lib\\argparse.py', 'PYMODULE'),
   ('ast', 'C:\\Program Files\\Python312\\Lib\\ast.py', 'PYMODULE'),
@@ -327,76 +327,76 @@
   ('bz2', 'C:\\Program Files\\Python312\\Lib\\bz2.py', 'PYMODULE'),
   ('calendar', 'C:\\Program Files\\Python312\\Lib\\calendar.py', 'PYMODULE'),
   ('certifi',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\certifi\\__init__.py',
    'PYMODULE'),
   ('certifi.core',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\certifi\\core.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\certifi\\core.py',
    'PYMODULE'),
   ('click',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\__init__.py',
    'PYMODULE'),
   ('click._compat',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\_compat.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\_compat.py',
    'PYMODULE'),
   ('click._termui_impl',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\_termui_impl.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\_termui_impl.py',
    'PYMODULE'),
   ('click._textwrap',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\_textwrap.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\_textwrap.py',
    'PYMODULE'),
   ('click._utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\_utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\_utils.py',
    'PYMODULE'),
   ('click._winconsole',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\_winconsole.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\_winconsole.py',
    'PYMODULE'),
   ('click.core',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\core.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\core.py',
    'PYMODULE'),
   ('click.decorators',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\decorators.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\decorators.py',
    'PYMODULE'),
   ('click.exceptions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\exceptions.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\exceptions.py',
    'PYMODULE'),
   ('click.formatting',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\formatting.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\formatting.py',
    'PYMODULE'),
   ('click.globals',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\globals.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\globals.py',
    'PYMODULE'),
   ('click.parser',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\parser.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\parser.py',
    'PYMODULE'),
   ('click.shell_completion',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\shell_completion.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\shell_completion.py',
    'PYMODULE'),
   ('click.termui',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\termui.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\termui.py',
    'PYMODULE'),
   ('click.types',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\types.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\types.py',
    'PYMODULE'),
   ('click.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\click\\utils.py',
    'PYMODULE'),
   ('colorsys', 'C:\\Program Files\\Python312\\Lib\\colorsys.py', 'PYMODULE'),
   ('concurrent',
@@ -425,13 +425,13 @@
    'PYMODULE'),
   ('copy', 'C:\\Program Files\\Python312\\Lib\\copy.py', 'PYMODULE'),
   ('core',
-   'C:\\Development projects\\Kquota\\backend\\core\\__init__.py',
+   'M:\\Development Projects\\Kquota\\backend\\core\\__init__.py',
    'PYMODULE'),
   ('core.cache',
-   'C:\\Development projects\\Kquota\\backend\\core\\cache.py',
+   'M:\\Development Projects\\Kquota\\backend\\core\\cache.py',
    'PYMODULE'),
   ('core.config',
-   'C:\\Development projects\\Kquota\\backend\\core\\config.py',
+   'M:\\Development Projects\\Kquota\\backend\\core\\config.py',
    'PYMODULE'),
   ('csv', 'C:\\Program Files\\Python312\\Lib\\csv.py', 'PYMODULE'),
   ('ctypes',
@@ -451,24 +451,24 @@
   ('difflib', 'C:\\Program Files\\Python312\\Lib\\difflib.py', 'PYMODULE'),
   ('dis', 'C:\\Program Files\\Python312\\Lib\\dis.py', 'PYMODULE'),
   ('dotenv',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\dotenv\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\dotenv\\__init__.py',
    'PYMODULE'),
   ('dotenv.ipython',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\dotenv\\ipython.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\dotenv\\ipython.py',
    'PYMODULE'),
   ('dotenv.main',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\dotenv\\main.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\dotenv\\main.py',
    'PYMODULE'),
   ('dotenv.parser',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\dotenv\\parser.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\dotenv\\parser.py',
    'PYMODULE'),
   ('dotenv.variables',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\dotenv\\variables.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\dotenv\\variables.py',
    'PYMODULE'),
   ('email',
    'C:\\Program Files\\Python312\\Lib\\email\\__init__.py',
@@ -531,180 +531,180 @@
    'C:\\Program Files\\Python312\\Lib\\email\\utils.py',
    'PYMODULE'),
   ('fastapi',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\__init__.py',
    'PYMODULE'),
   ('fastapi.__main__',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\__main__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\__main__.py',
    'PYMODULE'),
   ('fastapi._compat',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\_compat.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\_compat.py',
    'PYMODULE'),
   ('fastapi.applications',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\applications.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\applications.py',
    'PYMODULE'),
   ('fastapi.background',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\background.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\background.py',
    'PYMODULE'),
   ('fastapi.cli',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\cli.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\cli.py',
    'PYMODULE'),
   ('fastapi.concurrency',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\concurrency.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\concurrency.py',
    'PYMODULE'),
   ('fastapi.datastructures',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\datastructures.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\datastructures.py',
    'PYMODULE'),
   ('fastapi.dependencies',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\dependencies\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\dependencies\\__init__.py',
    'PYMODULE'),
   ('fastapi.dependencies.models',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\dependencies\\models.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\dependencies\\models.py',
    'PYMODULE'),
   ('fastapi.dependencies.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\dependencies\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\dependencies\\utils.py',
    'PYMODULE'),
   ('fastapi.encoders',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\encoders.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\encoders.py',
    'PYMODULE'),
   ('fastapi.exception_handlers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\exception_handlers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\exception_handlers.py',
    'PYMODULE'),
   ('fastapi.exceptions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\exceptions.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\exceptions.py',
    'PYMODULE'),
   ('fastapi.logger',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\logger.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\logger.py',
    'PYMODULE'),
   ('fastapi.middleware',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\middleware\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\middleware\\__init__.py',
    'PYMODULE'),
   ('fastapi.middleware.cors',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\middleware\\cors.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\middleware\\cors.py',
    'PYMODULE'),
   ('fastapi.middleware.gzip',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\middleware\\gzip.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\middleware\\gzip.py',
    'PYMODULE'),
   ('fastapi.middleware.httpsredirect',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\middleware\\httpsredirect.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\middleware\\httpsredirect.py',
    'PYMODULE'),
   ('fastapi.middleware.trustedhost',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\middleware\\trustedhost.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\middleware\\trustedhost.py',
    'PYMODULE'),
   ('fastapi.middleware.wsgi',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\middleware\\wsgi.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\middleware\\wsgi.py',
    'PYMODULE'),
   ('fastapi.openapi',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\openapi\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\openapi\\__init__.py',
    'PYMODULE'),
   ('fastapi.openapi.constants',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\openapi\\constants.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\openapi\\constants.py',
    'PYMODULE'),
   ('fastapi.openapi.docs',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\openapi\\docs.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\openapi\\docs.py',
    'PYMODULE'),
   ('fastapi.openapi.models',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\openapi\\models.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\openapi\\models.py',
    'PYMODULE'),
   ('fastapi.openapi.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\openapi\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\openapi\\utils.py',
    'PYMODULE'),
   ('fastapi.param_functions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\param_functions.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\param_functions.py',
    'PYMODULE'),
   ('fastapi.params',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\params.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\params.py',
    'PYMODULE'),
   ('fastapi.requests',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\requests.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\requests.py',
    'PYMODULE'),
   ('fastapi.responses',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\responses.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\responses.py',
    'PYMODULE'),
   ('fastapi.routing',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\routing.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\routing.py',
    'PYMODULE'),
   ('fastapi.security',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\__init__.py',
    'PYMODULE'),
   ('fastapi.security.api_key',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\api_key.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\api_key.py',
    'PYMODULE'),
   ('fastapi.security.base',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\base.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\base.py',
    'PYMODULE'),
   ('fastapi.security.http',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\http.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\http.py',
    'PYMODULE'),
   ('fastapi.security.oauth2',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\oauth2.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\oauth2.py',
    'PYMODULE'),
   ('fastapi.security.open_id_connect_url',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\open_id_connect_url.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\open_id_connect_url.py',
    'PYMODULE'),
   ('fastapi.security.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\security\\utils.py',
    'PYMODULE'),
   ('fastapi.staticfiles',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\staticfiles.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\staticfiles.py',
    'PYMODULE'),
   ('fastapi.templating',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\templating.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\templating.py',
    'PYMODULE'),
   ('fastapi.testclient',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\testclient.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\testclient.py',
    'PYMODULE'),
   ('fastapi.types',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\types.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\types.py',
    'PYMODULE'),
   ('fastapi.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\utils.py',
    'PYMODULE'),
   ('fastapi.websockets',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\websockets.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\fastapi\\websockets.py',
    'PYMODULE'),
   ('fnmatch', 'C:\\Program Files\\Python312\\Lib\\fnmatch.py', 'PYMODULE'),
   ('fractions', 'C:\\Program Files\\Python312\\Lib\\fractions.py', 'PYMODULE'),
@@ -715,48 +715,48 @@
   ('glob', 'C:\\Program Files\\Python312\\Lib\\glob.py', 'PYMODULE'),
   ('gzip', 'C:\\Program Files\\Python312\\Lib\\gzip.py', 'PYMODULE'),
   ('h11',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\__init__.py',
    'PYMODULE'),
   ('h11._abnf',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_abnf.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_abnf.py',
    'PYMODULE'),
   ('h11._connection',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_connection.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_connection.py',
    'PYMODULE'),
   ('h11._events',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_events.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_events.py',
    'PYMODULE'),
   ('h11._headers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_headers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_headers.py',
    'PYMODULE'),
   ('h11._readers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_readers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_readers.py',
    'PYMODULE'),
   ('h11._receivebuffer',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_receivebuffer.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_receivebuffer.py',
    'PYMODULE'),
   ('h11._state',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_state.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_state.py',
    'PYMODULE'),
   ('h11._util',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_util.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_util.py',
    'PYMODULE'),
   ('h11._version',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_version.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_version.py',
    'PYMODULE'),
   ('h11._writers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_writers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\h11\\_writers.py',
    'PYMODULE'),
   ('hashlib', 'C:\\Program Files\\Python312\\Lib\\hashlib.py', 'PYMODULE'),
   ('hmac', 'C:\\Program Files\\Python312\\Lib\\hmac.py', 'PYMODULE'),
@@ -778,264 +778,264 @@
    'C:\\Program Files\\Python312\\Lib\\http\\server.py',
    'PYMODULE'),
   ('httpcore',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\__init__.py',
    'PYMODULE'),
   ('httpcore._api',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_api.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_api.py',
    'PYMODULE'),
   ('httpcore._async',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\__init__.py',
    'PYMODULE'),
   ('httpcore._async.connection',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\connection.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\connection.py',
    'PYMODULE'),
   ('httpcore._async.connection_pool',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\connection_pool.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\connection_pool.py',
    'PYMODULE'),
   ('httpcore._async.http11',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\http11.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\http11.py',
    'PYMODULE'),
   ('httpcore._async.http2',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\http2.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\http2.py',
    'PYMODULE'),
   ('httpcore._async.http_proxy',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\http_proxy.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\http_proxy.py',
    'PYMODULE'),
   ('httpcore._async.interfaces',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\interfaces.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\interfaces.py',
    'PYMODULE'),
   ('httpcore._async.socks_proxy',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\socks_proxy.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_async\\socks_proxy.py',
    'PYMODULE'),
   ('httpcore._backends',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\__init__.py',
    'PYMODULE'),
   ('httpcore._backends.anyio',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\anyio.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\anyio.py',
    'PYMODULE'),
   ('httpcore._backends.auto',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\auto.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\auto.py',
    'PYMODULE'),
   ('httpcore._backends.base',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\base.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\base.py',
    'PYMODULE'),
   ('httpcore._backends.mock',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\mock.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\mock.py',
    'PYMODULE'),
   ('httpcore._backends.sync',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\sync.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\sync.py',
    'PYMODULE'),
   ('httpcore._backends.trio',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\trio.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_backends\\trio.py',
    'PYMODULE'),
   ('httpcore._exceptions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_exceptions.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_exceptions.py',
    'PYMODULE'),
   ('httpcore._models',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_models.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_models.py',
    'PYMODULE'),
   ('httpcore._ssl',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_ssl.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_ssl.py',
    'PYMODULE'),
   ('httpcore._sync',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\__init__.py',
    'PYMODULE'),
   ('httpcore._sync.connection',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\connection.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\connection.py',
    'PYMODULE'),
   ('httpcore._sync.connection_pool',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
    'PYMODULE'),
   ('httpcore._sync.http11',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\http11.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\http11.py',
    'PYMODULE'),
   ('httpcore._sync.http2',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\http2.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\http2.py',
    'PYMODULE'),
   ('httpcore._sync.http_proxy',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
    'PYMODULE'),
   ('httpcore._sync.interfaces',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\interfaces.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\interfaces.py',
    'PYMODULE'),
   ('httpcore._sync.socks_proxy',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\socks_proxy.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_sync\\socks_proxy.py',
    'PYMODULE'),
   ('httpcore._synchronization',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_synchronization.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_synchronization.py',
    'PYMODULE'),
   ('httpcore._trace',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_trace.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_trace.py',
    'PYMODULE'),
   ('httpcore._utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpcore\\_utils.py',
    'PYMODULE'),
   ('httptools',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httptools\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httptools\\__init__.py',
    'PYMODULE'),
   ('httptools._version',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httptools\\_version.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httptools\\_version.py',
    'PYMODULE'),
   ('httptools.parser',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httptools\\parser\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httptools\\parser\\__init__.py',
    'PYMODULE'),
   ('httptools.parser.errors',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httptools\\parser\\errors.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httptools\\parser\\errors.py',
    'PYMODULE'),
   ('httptools.parser.protocol',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httptools\\parser\\protocol.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httptools\\parser\\protocol.py',
    'PYMODULE'),
   ('httpx',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\__init__.py',
    'PYMODULE'),
   ('httpx.__version__',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\__version__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\__version__.py',
    'PYMODULE'),
   ('httpx._api',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_api.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_api.py',
    'PYMODULE'),
   ('httpx._auth',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_auth.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_auth.py',
    'PYMODULE'),
   ('httpx._client',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_client.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_client.py',
    'PYMODULE'),
   ('httpx._config',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_config.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_config.py',
    'PYMODULE'),
   ('httpx._content',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_content.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_content.py',
    'PYMODULE'),
   ('httpx._decoders',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_decoders.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_decoders.py',
    'PYMODULE'),
   ('httpx._exceptions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_exceptions.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_exceptions.py',
    'PYMODULE'),
   ('httpx._main',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_main.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_main.py',
    'PYMODULE'),
   ('httpx._models',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_models.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_models.py',
    'PYMODULE'),
   ('httpx._multipart',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_multipart.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_multipart.py',
    'PYMODULE'),
   ('httpx._status_codes',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_status_codes.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_status_codes.py',
    'PYMODULE'),
   ('httpx._transports',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_transports\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_transports\\__init__.py',
    'PYMODULE'),
   ('httpx._transports.asgi',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_transports\\asgi.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_transports\\asgi.py',
    'PYMODULE'),
   ('httpx._transports.base',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_transports\\base.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_transports\\base.py',
    'PYMODULE'),
   ('httpx._transports.default',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_transports\\default.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_transports\\default.py',
    'PYMODULE'),
   ('httpx._transports.mock',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_transports\\mock.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_transports\\mock.py',
    'PYMODULE'),
   ('httpx._transports.wsgi',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_transports\\wsgi.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_transports\\wsgi.py',
    'PYMODULE'),
   ('httpx._types',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_types.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_types.py',
    'PYMODULE'),
   ('httpx._urlparse',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_urlparse.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_urlparse.py',
    'PYMODULE'),
   ('httpx._urls',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_urls.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_urls.py',
    'PYMODULE'),
   ('httpx._utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\httpx\\_utils.py',
    'PYMODULE'),
   ('idna',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\idna\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\idna\\__init__.py',
    'PYMODULE'),
   ('idna.core',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\idna\\core.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\idna\\core.py',
    'PYMODULE'),
   ('idna.idnadata',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\idna\\idnadata.py',
    'PYMODULE'),
   ('idna.intranges',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\idna\\intranges.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\idna\\intranges.py',
    'PYMODULE'),
   ('idna.package_data',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\idna\\package_data.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\idna\\package_data.py',
    'PYMODULE'),
   ('idna.uts46data',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\idna\\uts46data.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\idna\\uts46data.py',
    'PYMODULE'),
   ('importlib',
    'C:\\Program Files\\Python312\\Lib\\importlib\\__init__.py',
@@ -1127,13 +1127,13 @@
   ('lzma', 'C:\\Program Files\\Python312\\Lib\\lzma.py', 'PYMODULE'),
   ('mimetypes', 'C:\\Program Files\\Python312\\Lib\\mimetypes.py', 'PYMODULE'),
   ('models',
-   'C:\\Development projects\\Kquota\\backend\\models\\__init__.py',
+   'M:\\Development Projects\\Kquota\\backend\\models\\__init__.py',
    'PYMODULE'),
   ('models.status',
-   'C:\\Development projects\\Kquota\\backend\\models\\status.py',
+   'M:\\Development Projects\\Kquota\\backend\\models\\status.py',
    'PYMODULE'),
   ('models.usage',
-   'C:\\Development projects\\Kquota\\backend\\models\\usage.py',
+   'M:\\Development Projects\\Kquota\\backend\\models\\usage.py',
    'PYMODULE'),
   ('multiprocessing',
    'C:\\Program Files\\Python312\\Lib\\multiprocessing\\__init__.py',
@@ -1211,68 +1211,68 @@
   ('numbers', 'C:\\Program Files\\Python312\\Lib\\numbers.py', 'PYMODULE'),
   ('opcode', 'C:\\Program Files\\Python312\\Lib\\opcode.py', 'PYMODULE'),
   ('packaging',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\__init__.py',
    'PYMODULE'),
   ('packaging._elffile',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\_elffile.py',
    'PYMODULE'),
   ('packaging._manylinux',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\_manylinux.py',
    'PYMODULE'),
   ('packaging._musllinux',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\_musllinux.py',
    'PYMODULE'),
   ('packaging._parser',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\_parser.py',
    'PYMODULE'),
   ('packaging._ranges',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\_ranges.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\_ranges.py',
    'PYMODULE'),
   ('packaging._tokenizer',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
    'PYMODULE'),
   ('packaging.licenses',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
    'PYMODULE'),
   ('packaging.licenses._spdx',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
    'PYMODULE'),
   ('packaging.markers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\markers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\markers.py',
    'PYMODULE'),
   ('packaging.ranges',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\ranges.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\ranges.py',
    'PYMODULE'),
   ('packaging.requirements',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\requirements.py',
    'PYMODULE'),
   ('packaging.specifiers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\specifiers.py',
    'PYMODULE'),
   ('packaging.tags',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\tags.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\tags.py',
    'PYMODULE'),
   ('packaging.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\utils.py',
    'PYMODULE'),
   ('packaging.version',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\version.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\packaging\\version.py',
    'PYMODULE'),
   ('pathlib', 'C:\\Program Files\\Python312\\Lib\\pathlib.py', 'PYMODULE'),
   ('pickle', 'C:\\Program Files\\Python312\\Lib\\pickle.py', 'PYMODULE'),
@@ -1283,424 +1283,424 @@
    'C:\\Program Files\\Python312\\Lib\\py_compile.py',
    'PYMODULE'),
   ('pydantic',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\__init__.py',
    'PYMODULE'),
   ('pydantic._internal',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\__init__.py',
    'PYMODULE'),
   ('pydantic._internal._config',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_config.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_config.py',
    'PYMODULE'),
   ('pydantic._internal._core_metadata',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_core_metadata.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_core_metadata.py',
    'PYMODULE'),
   ('pydantic._internal._core_utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_core_utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_core_utils.py',
    'PYMODULE'),
   ('pydantic._internal._dataclasses',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_dataclasses.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_dataclasses.py',
    'PYMODULE'),
   ('pydantic._internal._decorators',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_decorators.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_decorators.py',
    'PYMODULE'),
   ('pydantic._internal._decorators_v1',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_decorators_v1.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_decorators_v1.py',
    'PYMODULE'),
   ('pydantic._internal._discriminated_union',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_discriminated_union.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_discriminated_union.py',
    'PYMODULE'),
   ('pydantic._internal._docs_extraction',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_docs_extraction.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_docs_extraction.py',
    'PYMODULE'),
   ('pydantic._internal._fields',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_fields.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_fields.py',
    'PYMODULE'),
   ('pydantic._internal._forward_ref',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_forward_ref.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_forward_ref.py',
    'PYMODULE'),
   ('pydantic._internal._generate_schema',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_generate_schema.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_generate_schema.py',
    'PYMODULE'),
   ('pydantic._internal._generics',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_generics.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_generics.py',
    'PYMODULE'),
   ('pydantic._internal._git',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_git.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_git.py',
    'PYMODULE'),
   ('pydantic._internal._import_utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_import_utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_import_utils.py',
    'PYMODULE'),
   ('pydantic._internal._internal_dataclass',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_internal_dataclass.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_internal_dataclass.py',
    'PYMODULE'),
   ('pydantic._internal._known_annotated_metadata',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_known_annotated_metadata.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_known_annotated_metadata.py',
    'PYMODULE'),
   ('pydantic._internal._mock_val_ser',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_mock_val_ser.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_mock_val_ser.py',
    'PYMODULE'),
   ('pydantic._internal._model_construction',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_model_construction.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_model_construction.py',
    'PYMODULE'),
   ('pydantic._internal._namespace_utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_namespace_utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_namespace_utils.py',
    'PYMODULE'),
   ('pydantic._internal._repr',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_repr.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_repr.py',
    'PYMODULE'),
   ('pydantic._internal._schema_generation_shared',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_schema_generation_shared.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_schema_generation_shared.py',
    'PYMODULE'),
   ('pydantic._internal._serializers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_serializers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_serializers.py',
    'PYMODULE'),
   ('pydantic._internal._signature',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_signature.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_signature.py',
    'PYMODULE'),
   ('pydantic._internal._std_types_schema',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_std_types_schema.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_std_types_schema.py',
    'PYMODULE'),
   ('pydantic._internal._typing_extra',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_typing_extra.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_typing_extra.py',
    'PYMODULE'),
   ('pydantic._internal._utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_utils.py',
    'PYMODULE'),
   ('pydantic._internal._validate_call',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_validate_call.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_validate_call.py',
    'PYMODULE'),
   ('pydantic._internal._validators',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_validators.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_validators.py',
    'PYMODULE'),
   ('pydantic._migration',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_migration.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\_migration.py',
    'PYMODULE'),
   ('pydantic.alias_generators',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\alias_generators.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\alias_generators.py',
    'PYMODULE'),
   ('pydantic.aliases',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\aliases.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\aliases.py',
    'PYMODULE'),
   ('pydantic.annotated_handlers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\annotated_handlers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\annotated_handlers.py',
    'PYMODULE'),
   ('pydantic.class_validators',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\class_validators.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\class_validators.py',
    'PYMODULE'),
   ('pydantic.color',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\color.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\color.py',
    'PYMODULE'),
   ('pydantic.config',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\config.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\config.py',
    'PYMODULE'),
   ('pydantic.dataclasses',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\dataclasses.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\dataclasses.py',
    'PYMODULE'),
   ('pydantic.datetime_parse',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\datetime_parse.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\datetime_parse.py',
    'PYMODULE'),
   ('pydantic.decorator',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\decorator.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\decorator.py',
    'PYMODULE'),
   ('pydantic.deprecated',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\__init__.py',
    'PYMODULE'),
   ('pydantic.deprecated.class_validators',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\class_validators.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\class_validators.py',
    'PYMODULE'),
   ('pydantic.deprecated.config',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\config.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\config.py',
    'PYMODULE'),
   ('pydantic.deprecated.copy_internals',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\copy_internals.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\copy_internals.py',
    'PYMODULE'),
   ('pydantic.deprecated.decorator',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\decorator.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\decorator.py',
    'PYMODULE'),
   ('pydantic.deprecated.json',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\json.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\json.py',
    'PYMODULE'),
   ('pydantic.deprecated.parse',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\parse.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\parse.py',
    'PYMODULE'),
   ('pydantic.deprecated.tools',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\tools.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\tools.py',
    'PYMODULE'),
   ('pydantic.env_settings',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\env_settings.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\env_settings.py',
    'PYMODULE'),
   ('pydantic.error_wrappers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\error_wrappers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\error_wrappers.py',
    'PYMODULE'),
   ('pydantic.errors',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\errors.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\errors.py',
    'PYMODULE'),
   ('pydantic.experimental',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\experimental\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\experimental\\__init__.py',
    'PYMODULE'),
   ('pydantic.experimental.pipeline',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\experimental\\pipeline.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\experimental\\pipeline.py',
    'PYMODULE'),
   ('pydantic.fields',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\fields.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\fields.py',
    'PYMODULE'),
   ('pydantic.functional_serializers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\functional_serializers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\functional_serializers.py',
    'PYMODULE'),
   ('pydantic.functional_validators',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\functional_validators.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\functional_validators.py',
    'PYMODULE'),
   ('pydantic.generics',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\generics.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\generics.py',
    'PYMODULE'),
   ('pydantic.json',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\json.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\json.py',
    'PYMODULE'),
   ('pydantic.json_schema',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\json_schema.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\json_schema.py',
    'PYMODULE'),
   ('pydantic.main',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\main.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\main.py',
    'PYMODULE'),
   ('pydantic.mypy',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\mypy.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\mypy.py',
    'PYMODULE'),
   ('pydantic.networks',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\networks.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\networks.py',
    'PYMODULE'),
   ('pydantic.parse',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\parse.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\parse.py',
    'PYMODULE'),
   ('pydantic.plugin',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\plugin\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\plugin\\__init__.py',
    'PYMODULE'),
   ('pydantic.plugin._loader',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\plugin\\_loader.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\plugin\\_loader.py',
    'PYMODULE'),
   ('pydantic.plugin._schema_validator',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\plugin\\_schema_validator.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\plugin\\_schema_validator.py',
    'PYMODULE'),
   ('pydantic.root_model',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\root_model.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\root_model.py',
    'PYMODULE'),
   ('pydantic.schema',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\schema.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\schema.py',
    'PYMODULE'),
   ('pydantic.tools',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\tools.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\tools.py',
    'PYMODULE'),
   ('pydantic.type_adapter',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\type_adapter.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\type_adapter.py',
    'PYMODULE'),
   ('pydantic.types',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\types.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\types.py',
    'PYMODULE'),
   ('pydantic.typing',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\typing.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\typing.py',
    'PYMODULE'),
   ('pydantic.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\utils.py',
    'PYMODULE'),
   ('pydantic.v1',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\__init__.py',
    'PYMODULE'),
   ('pydantic.v1._hypothesis_plugin',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\_hypothesis_plugin.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\_hypothesis_plugin.py',
    'PYMODULE'),
   ('pydantic.v1.annotated_types',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\annotated_types.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\annotated_types.py',
    'PYMODULE'),
   ('pydantic.v1.class_validators',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\class_validators.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\class_validators.py',
    'PYMODULE'),
   ('pydantic.v1.color',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\color.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\color.py',
    'PYMODULE'),
   ('pydantic.v1.config',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\config.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\config.py',
    'PYMODULE'),
   ('pydantic.v1.dataclasses',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\dataclasses.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\dataclasses.py',
    'PYMODULE'),
   ('pydantic.v1.datetime_parse',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\datetime_parse.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\datetime_parse.py',
    'PYMODULE'),
   ('pydantic.v1.decorator',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\decorator.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\decorator.py',
    'PYMODULE'),
   ('pydantic.v1.env_settings',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\env_settings.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\env_settings.py',
    'PYMODULE'),
   ('pydantic.v1.error_wrappers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\error_wrappers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\error_wrappers.py',
    'PYMODULE'),
   ('pydantic.v1.errors',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\errors.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\errors.py',
    'PYMODULE'),
   ('pydantic.v1.fields',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\fields.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\fields.py',
    'PYMODULE'),
   ('pydantic.v1.generics',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\generics.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\generics.py',
    'PYMODULE'),
   ('pydantic.v1.json',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\json.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\json.py',
    'PYMODULE'),
   ('pydantic.v1.main',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\main.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\main.py',
    'PYMODULE'),
   ('pydantic.v1.mypy',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\mypy.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\mypy.py',
    'PYMODULE'),
   ('pydantic.v1.networks',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\networks.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\networks.py',
    'PYMODULE'),
   ('pydantic.v1.parse',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\parse.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\parse.py',
    'PYMODULE'),
   ('pydantic.v1.schema',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\schema.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\schema.py',
    'PYMODULE'),
   ('pydantic.v1.tools',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\tools.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\tools.py',
    'PYMODULE'),
   ('pydantic.v1.types',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\types.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\types.py',
    'PYMODULE'),
   ('pydantic.v1.typing',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\typing.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\typing.py',
    'PYMODULE'),
   ('pydantic.v1.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\utils.py',
    'PYMODULE'),
   ('pydantic.v1.validators',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\validators.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\validators.py',
    'PYMODULE'),
   ('pydantic.v1.version',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\version.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\v1\\version.py',
    'PYMODULE'),
   ('pydantic.validate_call_decorator',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\validate_call_decorator.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\validate_call_decorator.py',
    'PYMODULE'),
   ('pydantic.validators',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\validators.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\validators.py',
    'PYMODULE'),
   ('pydantic.version',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\version.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\version.py',
    'PYMODULE'),
   ('pydantic.warnings',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\warnings.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic\\warnings.py',
    'PYMODULE'),
   ('pydantic_core',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic_core\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic_core\\__init__.py',
    'PYMODULE'),
   ('pydantic_core.core_schema',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic_core\\core_schema.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\pydantic_core\\core_schema.py',
    'PYMODULE'),
   ('pydoc', 'C:\\Program Files\\Python312\\Lib\\pydoc.py', 'PYMODULE'),
   ('pydoc_data',
@@ -1719,533 +1719,533 @@
   ('secrets', 'C:\\Program Files\\Python312\\Lib\\secrets.py', 'PYMODULE'),
   ('selectors', 'C:\\Program Files\\Python312\\Lib\\selectors.py', 'PYMODULE'),
   ('services',
-   'C:\\Development projects\\Kquota\\backend\\services\\__init__.py',
+   'M:\\Development Projects\\Kquota\\backend\\services\\__init__.py',
    'PYMODULE'),
   ('services.status',
-   'C:\\Development projects\\Kquota\\backend\\services\\status\\__init__.py',
+   'M:\\Development Projects\\Kquota\\backend\\services\\status\\__init__.py',
    'PYMODULE'),
   ('services.status.anthropic',
-   'C:\\Development projects\\Kquota\\backend\\services\\status\\anthropic.py',
+   'M:\\Development Projects\\Kquota\\backend\\services\\status\\anthropic.py',
    'PYMODULE'),
   ('services.status.openai',
-   'C:\\Development projects\\Kquota\\backend\\services\\status\\openai.py',
+   'M:\\Development Projects\\Kquota\\backend\\services\\status\\openai.py',
    'PYMODULE'),
   ('services.usage',
-   'C:\\Development projects\\Kquota\\backend\\services\\usage\\__init__.py',
+   'M:\\Development Projects\\Kquota\\backend\\services\\usage\\__init__.py',
    'PYMODULE'),
   ('services.usage.base',
-   'C:\\Development projects\\Kquota\\backend\\services\\usage\\base.py',
+   'M:\\Development Projects\\Kquota\\backend\\services\\usage\\base.py',
    'PYMODULE'),
   ('services.usage.claude',
-   'C:\\Development projects\\Kquota\\backend\\services\\usage\\claude.py',
+   'M:\\Development Projects\\Kquota\\backend\\services\\usage\\claude.py',
    'PYMODULE'),
   ('services.usage.codex',
-   'C:\\Development projects\\Kquota\\backend\\services\\usage\\codex.py',
+   'M:\\Development Projects\\Kquota\\backend\\services\\usage\\codex.py',
    'PYMODULE'),
   ('setuptools',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\__init__.py',
    'PYMODULE'),
   ('setuptools._core_metadata',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_core_metadata.py',
    'PYMODULE'),
   ('setuptools._discovery',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_discovery.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_discovery.py',
    'PYMODULE'),
   ('setuptools._distutils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
    'PYMODULE'),
   ('setuptools._distutils._dataclass',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_dataclass.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_dataclass.py',
    'PYMODULE'),
   ('setuptools._distutils._log',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
    'PYMODULE'),
   ('setuptools._distutils._modified',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
    'PYMODULE'),
   ('setuptools._distutils._msvccompiler',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
    'PYMODULE'),
   ('setuptools._distutils.archive_util',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
    'PYMODULE'),
   ('setuptools._distutils.ccompiler',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
    'PYMODULE'),
   ('setuptools._distutils.cmd',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
    'PYMODULE'),
   ('setuptools._distutils.command',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
    'PYMODULE'),
   ('setuptools._distutils.command.bdist',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
    'PYMODULE'),
   ('setuptools._distutils.command.build',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
    'PYMODULE'),
   ('setuptools._distutils.command.build_ext',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
    'PYMODULE'),
   ('setuptools._distutils.command.sdist',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
    'PYMODULE'),
   ('setuptools._distutils.compat',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
    'PYMODULE'),
   ('setuptools._distutils.compat.numpy',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
    'PYMODULE'),
   ('setuptools._distutils.compat.py310',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py310.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py310.py',
    'PYMODULE'),
   ('setuptools._distutils.compilers', '-', 'PYMODULE'),
   ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
   ('setuptools._distutils.compilers.C.base',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
    'PYMODULE'),
   ('setuptools._distutils.compilers.C.cygwin',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\cygwin.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\cygwin.py',
    'PYMODULE'),
   ('setuptools._distutils.compilers.C.errors',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
    'PYMODULE'),
   ('setuptools._distutils.compilers.C.msvc',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
    'PYMODULE'),
   ('setuptools._distutils.compilers.C.unix',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\unix.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\unix.py',
    'PYMODULE'),
   ('setuptools._distutils.compilers.C.zos',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\zos.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\zos.py',
    'PYMODULE'),
   ('setuptools._distutils.compilers._modified',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_modified.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_modified.py',
    'PYMODULE'),
   ('setuptools._distutils.compilers._util',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_util.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_util.py',
    'PYMODULE'),
   ('setuptools._distutils.compilers.errors',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\errors.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\errors.py',
    'PYMODULE'),
   ('setuptools._distutils.compilers.logging',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\logging.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\logging.py',
    'PYMODULE'),
   ('setuptools._distutils.compilers.platform', '-', 'PYMODULE'),
   ('setuptools._distutils.compilers.platform.detect',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\detect.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\detect.py',
    'PYMODULE'),
   ('setuptools._distutils.compilers.platform.macos',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\macos.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\macos.py',
    'PYMODULE'),
   ('setuptools._distutils.core',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
    'PYMODULE'),
   ('setuptools._distutils.debug',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
    'PYMODULE'),
   ('setuptools._distutils.dir_util',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
    'PYMODULE'),
   ('setuptools._distutils.dist',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
    'PYMODULE'),
   ('setuptools._distutils.errors',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
    'PYMODULE'),
   ('setuptools._distutils.extension',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
    'PYMODULE'),
   ('setuptools._distutils.fancy_getopt',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
    'PYMODULE'),
   ('setuptools._distutils.file_util',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
    'PYMODULE'),
   ('setuptools._distutils.filelist',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
    'PYMODULE'),
   ('setuptools._distutils.log',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
    'PYMODULE'),
   ('setuptools._distutils.spawn',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
    'PYMODULE'),
   ('setuptools._distutils.sysconfig',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
    'PYMODULE'),
   ('setuptools._distutils.text_file',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
    'PYMODULE'),
   ('setuptools._distutils.util',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
    'PYMODULE'),
   ('setuptools._distutils.version',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
    'PYMODULE'),
   ('setuptools._distutils.versionpredicate',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
    'PYMODULE'),
   ('setuptools._entry_points',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_entry_points.py',
    'PYMODULE'),
   ('setuptools._imp',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_imp.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_imp.py',
    'PYMODULE'),
   ('setuptools._importlib',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_importlib.py',
    'PYMODULE'),
   ('setuptools._itertools',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_itertools.py',
    'PYMODULE'),
   ('setuptools._normalization',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_normalization.py',
    'PYMODULE'),
   ('setuptools._path',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_path.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_path.py',
    'PYMODULE'),
   ('setuptools._reqs',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_reqs.py',
    'PYMODULE'),
   ('setuptools._shutil',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_shutil.py',
    'PYMODULE'),
   ('setuptools._static',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_static.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_static.py',
    'PYMODULE'),
   ('setuptools._vendor', '-', 'PYMODULE'),
   ('setuptools._vendor.backports',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.backports.tarfile',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.backports.tarfile.compat',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.backports.tarfile.compat.py38',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
    'PYMODULE'),
   ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
   ('setuptools._vendor.jaraco.context',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.jaraco.functools',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.jaraco.text',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.more_itertools',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.more_itertools.more',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
    'PYMODULE'),
   ('setuptools._vendor.more_itertools.recipes',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._elffile',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._manylinux',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._musllinux',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._parser',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._structures',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._tokenizer',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.markers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.requirements',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.specifiers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.tags',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.version',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
    'PYMODULE'),
   ('setuptools._vendor.tomli',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.tomli._parser',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
    'PYMODULE'),
   ('setuptools._vendor.tomli._re',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
    'PYMODULE'),
   ('setuptools._vendor.tomli._types',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
    'PYMODULE'),
   ('setuptools._vendor.wheel',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.wheel.macosx_libfile',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
    'PYMODULE'),
   ('setuptools._vendor.wheel.wheelfile',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\wheelfile.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\wheelfile.py',
    'PYMODULE'),
   ('setuptools.archive_util',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\archive_util.py',
    'PYMODULE'),
   ('setuptools.command',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\__init__.py',
    'PYMODULE'),
   ('setuptools.command._requirestxt',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
    'PYMODULE'),
   ('setuptools.command.bdist_egg',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
    'PYMODULE'),
   ('setuptools.command.bdist_wheel',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
    'PYMODULE'),
   ('setuptools.command.build',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\build.py',
    'PYMODULE'),
   ('setuptools.command.egg_info',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
    'PYMODULE'),
   ('setuptools.command.sdist',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\sdist.py',
    'PYMODULE'),
   ('setuptools.command.setopt',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\command\\setopt.py',
    'PYMODULE'),
   ('setuptools.compat',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
    'PYMODULE'),
   ('setuptools.compat.py310',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\compat\\py310.py',
    'PYMODULE'),
   ('setuptools.compat.py311',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\compat\\py311.py',
    'PYMODULE'),
   ('setuptools.compat.py39',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\compat\\py39.py',
    'PYMODULE'),
   ('setuptools.config',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\__init__.py',
    'PYMODULE'),
   ('setuptools.config._apply_pyprojecttoml',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
    'PYMODULE'),
   ('setuptools.config._validate_pyproject',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
    'PYMODULE'),
   ('setuptools.config._validate_pyproject.error_reporting',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
    'PYMODULE'),
   ('setuptools.config._validate_pyproject.extra_validations',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
    'PYMODULE'),
   ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
    'PYMODULE'),
   ('setuptools.config._validate_pyproject.fastjsonschema_validations',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
    'PYMODULE'),
   ('setuptools.config._validate_pyproject.formats',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
    'PYMODULE'),
   ('setuptools.config.expand',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\expand.py',
    'PYMODULE'),
   ('setuptools.config.pyprojecttoml',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
    'PYMODULE'),
   ('setuptools.config.setupcfg',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
    'PYMODULE'),
   ('setuptools.depends',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\depends.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\depends.py',
    'PYMODULE'),
   ('setuptools.discovery',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\discovery.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\discovery.py',
    'PYMODULE'),
   ('setuptools.dist',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\dist.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\dist.py',
    'PYMODULE'),
   ('setuptools.errors',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\errors.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\errors.py',
    'PYMODULE'),
   ('setuptools.extension',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\extension.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\extension.py',
    'PYMODULE'),
   ('setuptools.glob',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\glob.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\glob.py',
    'PYMODULE'),
   ('setuptools.installer',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\installer.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\installer.py',
    'PYMODULE'),
   ('setuptools.logging',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\logging.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\logging.py',
    'PYMODULE'),
   ('setuptools.monkey',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\monkey.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\monkey.py',
    'PYMODULE'),
   ('setuptools.msvc',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\msvc.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\msvc.py',
    'PYMODULE'),
   ('setuptools.unicode_utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\unicode_utils.py',
    'PYMODULE'),
   ('setuptools.version',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\version.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\version.py',
    'PYMODULE'),
   ('setuptools.warnings',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\warnings.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\warnings.py',
    'PYMODULE'),
   ('setuptools.wheel',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\wheel.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\wheel.py',
    'PYMODULE'),
   ('setuptools.windows_support',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\setuptools\\windows_support.py',
    'PYMODULE'),
   ('shlex', 'C:\\Program Files\\Python312\\Lib\\shlex.py', 'PYMODULE'),
   ('shutil', 'C:\\Program Files\\Python312\\Lib\\shutil.py', 'PYMODULE'),
@@ -2258,120 +2258,120 @@
    'PYMODULE'),
   ('ssl', 'C:\\Program Files\\Python312\\Lib\\ssl.py', 'PYMODULE'),
   ('starlette',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\__init__.py',
    'PYMODULE'),
   ('starlette._compat',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\_compat.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\_compat.py',
    'PYMODULE'),
   ('starlette._exception_handler',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\_exception_handler.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\_exception_handler.py',
    'PYMODULE'),
   ('starlette._utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\_utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\_utils.py',
    'PYMODULE'),
   ('starlette.applications',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\applications.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\applications.py',
    'PYMODULE'),
   ('starlette.background',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\background.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\background.py',
    'PYMODULE'),
   ('starlette.concurrency',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\concurrency.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\concurrency.py',
    'PYMODULE'),
   ('starlette.convertors',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\convertors.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\convertors.py',
    'PYMODULE'),
   ('starlette.datastructures',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\datastructures.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\datastructures.py',
    'PYMODULE'),
   ('starlette.exceptions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\exceptions.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\exceptions.py',
    'PYMODULE'),
   ('starlette.formparsers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\formparsers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\formparsers.py',
    'PYMODULE'),
   ('starlette.middleware',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\__init__.py',
    'PYMODULE'),
   ('starlette.middleware.base',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\base.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\base.py',
    'PYMODULE'),
   ('starlette.middleware.cors',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\cors.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\cors.py',
    'PYMODULE'),
   ('starlette.middleware.errors',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\errors.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\errors.py',
    'PYMODULE'),
   ('starlette.middleware.exceptions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\exceptions.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\exceptions.py',
    'PYMODULE'),
   ('starlette.middleware.gzip',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\gzip.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\gzip.py',
    'PYMODULE'),
   ('starlette.middleware.httpsredirect',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\httpsredirect.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\httpsredirect.py',
    'PYMODULE'),
   ('starlette.middleware.trustedhost',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\trustedhost.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\trustedhost.py',
    'PYMODULE'),
   ('starlette.middleware.wsgi',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\wsgi.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\middleware\\wsgi.py',
    'PYMODULE'),
   ('starlette.requests',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\requests.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\requests.py',
    'PYMODULE'),
   ('starlette.responses',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\responses.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\responses.py',
    'PYMODULE'),
   ('starlette.routing',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\routing.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\routing.py',
    'PYMODULE'),
   ('starlette.staticfiles',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\staticfiles.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\staticfiles.py',
    'PYMODULE'),
   ('starlette.status',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\status.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\status.py',
    'PYMODULE'),
   ('starlette.templating',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\templating.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\templating.py',
    'PYMODULE'),
   ('starlette.testclient',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\testclient.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\testclient.py',
    'PYMODULE'),
   ('starlette.types',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\types.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\types.py',
    'PYMODULE'),
   ('starlette.websockets',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\websockets.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\starlette\\websockets.py',
    'PYMODULE'),
   ('statistics',
    'C:\\Program Files\\Python312\\Lib\\statistics.py',
@@ -2408,96 +2408,96 @@
   ('tty', 'C:\\Program Files\\Python312\\Lib\\tty.py', 'PYMODULE'),
   ('typing', 'C:\\Program Files\\Python312\\Lib\\typing.py', 'PYMODULE'),
   ('typing_extensions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\typing_extensions.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\typing_extensions.py',
    'PYMODULE'),
   ('tzdata',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Africa',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.America',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.America.Argentina',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.America.Indiana',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.America.Kentucky',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Kentucky\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Kentucky\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.America.North_Dakota',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\North_Dakota\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\North_Dakota\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Antarctica',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Arctic',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Arctic\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Arctic\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Asia',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Atlantic',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Australia',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Brazil',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Brazil\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Brazil\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Canada',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Chile',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Chile\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Chile\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Etc',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Europe',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Indian',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Mexico',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Mexico\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Mexico\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.Pacific',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\__init__.py',
    'PYMODULE'),
   ('tzdata.zoneinfo.US',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\__init__.py',
    'PYMODULE'),
   ('urllib',
    'C:\\Program Files\\Python312\\Lib\\urllib\\__init__.py',
@@ -2515,397 +2515,397 @@
    'C:\\Program Files\\Python312\\Lib\\urllib\\response.py',
    'PYMODULE'),
   ('utils',
-   'C:\\Development projects\\Kquota\\backend\\utils\\__init__.py',
+   'M:\\Development Projects\\Kquota\\backend\\utils\\__init__.py',
    'PYMODULE'),
   ('utils.cli',
-   'C:\\Development projects\\Kquota\\backend\\utils\\cli.py',
+   'M:\\Development Projects\\Kquota\\backend\\utils\\cli.py',
    'PYMODULE'),
   ('utils.time',
-   'C:\\Development projects\\Kquota\\backend\\utils\\time.py',
+   'M:\\Development Projects\\Kquota\\backend\\utils\\time.py',
    'PYMODULE'),
   ('uuid', 'C:\\Program Files\\Python312\\Lib\\uuid.py', 'PYMODULE'),
   ('uvicorn',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\__init__.py',
    'PYMODULE'),
   ('uvicorn.__main__',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\__main__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\__main__.py',
    'PYMODULE'),
   ('uvicorn._subprocess',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\_subprocess.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\_subprocess.py',
    'PYMODULE'),
   ('uvicorn._types',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\_types.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\_types.py',
    'PYMODULE'),
   ('uvicorn.config',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\config.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\config.py',
    'PYMODULE'),
   ('uvicorn.importer',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\importer.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\importer.py',
    'PYMODULE'),
   ('uvicorn.lifespan',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\lifespan\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\lifespan\\__init__.py',
    'PYMODULE'),
   ('uvicorn.lifespan.off',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\lifespan\\off.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\lifespan\\off.py',
    'PYMODULE'),
   ('uvicorn.lifespan.on',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\lifespan\\on.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\lifespan\\on.py',
    'PYMODULE'),
   ('uvicorn.logging',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\logging.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\logging.py',
    'PYMODULE'),
   ('uvicorn.loops',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\loops\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\loops\\__init__.py',
    'PYMODULE'),
   ('uvicorn.loops.asyncio',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\loops\\asyncio.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\loops\\asyncio.py',
    'PYMODULE'),
   ('uvicorn.loops.auto',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\loops\\auto.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\loops\\auto.py',
    'PYMODULE'),
   ('uvicorn.loops.uvloop',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\loops\\uvloop.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\loops\\uvloop.py',
    'PYMODULE'),
   ('uvicorn.main',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\main.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\main.py',
    'PYMODULE'),
   ('uvicorn.middleware',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\__init__.py',
    'PYMODULE'),
   ('uvicorn.middleware.asgi2',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\asgi2.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\asgi2.py',
    'PYMODULE'),
   ('uvicorn.middleware.message_logger',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\message_logger.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\message_logger.py',
    'PYMODULE'),
   ('uvicorn.middleware.proxy_headers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\proxy_headers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\proxy_headers.py',
    'PYMODULE'),
   ('uvicorn.middleware.wsgi',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\wsgi.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\wsgi.py',
    'PYMODULE'),
   ('uvicorn.protocols',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\__init__.py',
    'PYMODULE'),
   ('uvicorn.protocols.http',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\__init__.py',
    'PYMODULE'),
   ('uvicorn.protocols.http.auto',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\auto.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\auto.py',
    'PYMODULE'),
   ('uvicorn.protocols.http.flow_control',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\flow_control.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\flow_control.py',
    'PYMODULE'),
   ('uvicorn.protocols.http.h11_impl',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\h11_impl.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\h11_impl.py',
    'PYMODULE'),
   ('uvicorn.protocols.http.httptools_impl',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\httptools_impl.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\httptools_impl.py',
    'PYMODULE'),
   ('uvicorn.protocols.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\utils.py',
    'PYMODULE'),
   ('uvicorn.protocols.websockets',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\__init__.py',
    'PYMODULE'),
   ('uvicorn.protocols.websockets.auto',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\auto.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\auto.py',
    'PYMODULE'),
   ('uvicorn.protocols.websockets.websockets_impl',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\websockets_impl.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\websockets_impl.py',
    'PYMODULE'),
   ('uvicorn.protocols.websockets.wsproto_impl',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\wsproto_impl.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\wsproto_impl.py',
    'PYMODULE'),
   ('uvicorn.server',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\server.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\server.py',
    'PYMODULE'),
   ('uvicorn.supervisors',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\__init__.py',
    'PYMODULE'),
   ('uvicorn.supervisors.basereload',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\basereload.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\basereload.py',
    'PYMODULE'),
   ('uvicorn.supervisors.multiprocess',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\multiprocess.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\multiprocess.py',
    'PYMODULE'),
   ('uvicorn.supervisors.statreload',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\statreload.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\statreload.py',
    'PYMODULE'),
   ('uvicorn.supervisors.watchfilesreload',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\watchfilesreload.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\watchfilesreload.py',
    'PYMODULE'),
   ('uvicorn.workers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\workers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\uvicorn\\workers.py',
    'PYMODULE'),
   ('watchfiles',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\watchfiles\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\watchfiles\\__init__.py',
    'PYMODULE'),
   ('watchfiles.filters',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\watchfiles\\filters.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\watchfiles\\filters.py',
    'PYMODULE'),
   ('watchfiles.main',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\watchfiles\\main.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\watchfiles\\main.py',
    'PYMODULE'),
   ('watchfiles.run',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\watchfiles\\run.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\watchfiles\\run.py',
    'PYMODULE'),
   ('watchfiles.version',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\watchfiles\\version.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\watchfiles\\version.py',
    'PYMODULE'),
   ('webbrowser',
    'C:\\Program Files\\Python312\\Lib\\webbrowser.py',
    'PYMODULE'),
   ('websockets',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\__init__.py',
    'PYMODULE'),
   ('websockets.__main__',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\__main__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\__main__.py',
    'PYMODULE'),
   ('websockets.asyncio',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\asyncio\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\asyncio\\__init__.py',
    'PYMODULE'),
   ('websockets.asyncio.client',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\asyncio\\client.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\asyncio\\client.py',
    'PYMODULE'),
   ('websockets.asyncio.connection',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\asyncio\\connection.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\asyncio\\connection.py',
    'PYMODULE'),
   ('websockets.asyncio.messages',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\asyncio\\messages.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\asyncio\\messages.py',
    'PYMODULE'),
   ('websockets.asyncio.router',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\asyncio\\router.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\asyncio\\router.py',
    'PYMODULE'),
   ('websockets.asyncio.server',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\asyncio\\server.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\asyncio\\server.py',
    'PYMODULE'),
   ('websockets.auth',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\auth.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\auth.py',
    'PYMODULE'),
   ('websockets.cli',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\cli.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\cli.py',
    'PYMODULE'),
   ('websockets.client',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\client.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\client.py',
    'PYMODULE'),
   ('websockets.connection',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\connection.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\connection.py',
    'PYMODULE'),
   ('websockets.datastructures',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\datastructures.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\datastructures.py',
    'PYMODULE'),
   ('websockets.exceptions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\exceptions.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\exceptions.py',
    'PYMODULE'),
   ('websockets.extensions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\extensions\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\extensions\\__init__.py',
    'PYMODULE'),
   ('websockets.extensions.base',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\extensions\\base.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\extensions\\base.py',
    'PYMODULE'),
   ('websockets.extensions.permessage_deflate',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\extensions\\permessage_deflate.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\extensions\\permessage_deflate.py',
    'PYMODULE'),
   ('websockets.frames',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\frames.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\frames.py',
    'PYMODULE'),
   ('websockets.headers',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\headers.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\headers.py',
    'PYMODULE'),
   ('websockets.http11',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\http11.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\http11.py',
    'PYMODULE'),
   ('websockets.imports',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\imports.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\imports.py',
    'PYMODULE'),
   ('websockets.legacy',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\__init__.py',
    'PYMODULE'),
   ('websockets.legacy.auth',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\auth.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\auth.py',
    'PYMODULE'),
   ('websockets.legacy.client',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\client.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\client.py',
    'PYMODULE'),
   ('websockets.legacy.exceptions',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\exceptions.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\exceptions.py',
    'PYMODULE'),
   ('websockets.legacy.framing',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\framing.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\framing.py',
    'PYMODULE'),
   ('websockets.legacy.handshake',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\handshake.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\handshake.py',
    'PYMODULE'),
   ('websockets.legacy.http',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\http.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\http.py',
    'PYMODULE'),
   ('websockets.legacy.protocol',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\protocol.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\protocol.py',
    'PYMODULE'),
   ('websockets.legacy.server',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\server.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\legacy\\server.py',
    'PYMODULE'),
   ('websockets.protocol',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\protocol.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\protocol.py',
    'PYMODULE'),
   ('websockets.proxy',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\proxy.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\proxy.py',
    'PYMODULE'),
   ('websockets.server',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\server.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\server.py',
    'PYMODULE'),
   ('websockets.streams',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\streams.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\streams.py',
    'PYMODULE'),
   ('websockets.sync',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\__init__.py',
    'PYMODULE'),
   ('websockets.sync.client',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\client.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\client.py',
    'PYMODULE'),
   ('websockets.sync.connection',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\connection.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\connection.py',
    'PYMODULE'),
   ('websockets.sync.messages',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\messages.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\messages.py',
    'PYMODULE'),
   ('websockets.sync.router',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\router.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\router.py',
    'PYMODULE'),
   ('websockets.sync.server',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\server.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\server.py',
    'PYMODULE'),
   ('websockets.sync.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\sync\\utils.py',
    'PYMODULE'),
   ('websockets.trio',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\__init__.py',
    'PYMODULE'),
   ('websockets.trio.client',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\client.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\client.py',
    'PYMODULE'),
   ('websockets.trio.connection',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\connection.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\connection.py',
    'PYMODULE'),
   ('websockets.trio.messages',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\messages.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\messages.py',
    'PYMODULE'),
   ('websockets.trio.router',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\router.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\router.py',
    'PYMODULE'),
   ('websockets.trio.server',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\server.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\server.py',
    'PYMODULE'),
   ('websockets.trio.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\trio\\utils.py',
    'PYMODULE'),
   ('websockets.typing',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\typing.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\typing.py',
    'PYMODULE'),
   ('websockets.uri',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\uri.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\uri.py',
    'PYMODULE'),
   ('websockets.utils',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\utils.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\utils.py',
    'PYMODULE'),
   ('websockets.version',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\version.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\websockets\\version.py',
    'PYMODULE'),
   ('xml', 'C:\\Program Files\\Python312\\Lib\\xml\\__init__.py', 'PYMODULE'),
   ('xml.parsers',
@@ -2939,72 +2939,72 @@
    'C:\\Program Files\\Python312\\Lib\\xmlrpc\\client.py',
    'PYMODULE'),
   ('yaml',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\__init__.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\__init__.py',
    'PYMODULE'),
   ('yaml.composer',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\composer.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\composer.py',
    'PYMODULE'),
   ('yaml.constructor',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\constructor.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\constructor.py',
    'PYMODULE'),
   ('yaml.cyaml',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\cyaml.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\cyaml.py',
    'PYMODULE'),
   ('yaml.dumper',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\dumper.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\dumper.py',
    'PYMODULE'),
   ('yaml.emitter',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\emitter.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\emitter.py',
    'PYMODULE'),
   ('yaml.error',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\error.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\error.py',
    'PYMODULE'),
   ('yaml.events',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\events.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\events.py',
    'PYMODULE'),
   ('yaml.loader',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\loader.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\loader.py',
    'PYMODULE'),
   ('yaml.nodes',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\nodes.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\nodes.py',
    'PYMODULE'),
   ('yaml.parser',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\parser.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\parser.py',
    'PYMODULE'),
   ('yaml.reader',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\reader.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\reader.py',
    'PYMODULE'),
   ('yaml.representer',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\representer.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\representer.py',
    'PYMODULE'),
   ('yaml.resolver',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\resolver.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\resolver.py',
    'PYMODULE'),
   ('yaml.scanner',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\scanner.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\scanner.py',
    'PYMODULE'),
   ('yaml.serializer',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\serializer.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\serializer.py',
    'PYMODULE'),
   ('yaml.tokens',
-   'C:\\Development '
-   'projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\tokens.py',
+   'M:\\Development '
+   'Projects\\Kquota\\backend\\.venv\\Lib\\site-packages\\yaml\\tokens.py',
    'PYMODULE'),
   ('zipfile',
    'C:\\Program Files\\Python312\\Lib\\zipfile\\__init__.py',

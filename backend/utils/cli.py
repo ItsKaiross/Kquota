@@ -7,7 +7,9 @@ from typing import Optional, TypedDict
 # Without this, every CLI subprocess we launch (shell=True spawns cmd.exe,
 # which is a console-subsystem program) pops up a visible console window,
 # since our own frozen backend has no console of its own to attach it to.
-_WINDOWS_NO_CONSOLE = {"creationflags": 0x08000000} if sys.platform == "win32" else {}
+# Shared with services/usage/claude.py and codex.py, which spawn CLIs directly.
+WINDOWS_NO_CONSOLE = {"creationflags": 0x08000000} if sys.platform == "win32" else {}
+_WINDOWS_NO_CONSOLE = WINDOWS_NO_CONSOLE
 
 
 class CliDetection(TypedDict):
