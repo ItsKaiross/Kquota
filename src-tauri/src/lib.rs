@@ -32,6 +32,45 @@ fn spawn_backend(app: &tauri::App) -> Option<CommandChild> {
     Some(child)
 }
 
+// Puts the backend in a Windows job object with "kill on job close" so it
+// dies with us even if we're force-killed (Task Manager, a crash, an
+// installer terminating us mid-upgrade) rather than only on a graceful quit.
+// The job handle is closed automatically when this process exits for any
+// reason, which is what triggers the kill — so `_job` must be kept alive
+// (managed as app state) for as long as the backend should run.
+#[cfg(windows)]
+struct BackendJob(#[allow(dead_code)] win32job::Job);
+
+#[cfg(windows)]
+fn bind_backend_lifetime(pid: u32) -> Option<BackendJob> {
+    use windows_sys::Win32::Foundation::CloseHandle;
+    use windows_sys::Win32::System::Threading::{OpenProcess, PROCESS_SET_QUOTA, PROCESS_TERMINATE};
+
+    let mut info = win32job::ExtendedLimitInfo::new();
+    info.limit_kill_on_job_close();
+    let job = win32job::Job::create_with_limit_info(&info)
+        .map_err(|e| log::error!("failed to create backend job object: {e}"))
+        .ok()?;
+
+    unsafe {
+        let handle = OpenProcess(PROCESS_SET_QUOTA | PROCESS_TERMINATE, 0, pid);
+        if handle.is_null() {
+            log::error!("failed to open backend process handle for job assignment");
+            return None;
+        }
+
+        let assigned = job.assign_process(handle as isize);
+        CloseHandle(handle);
+
+        if let Err(e) = assigned {
+            log::error!("failed to assign backend to job object: {e}");
+            return None;
+        }
+    }
+
+    Some(BackendJob(job))
+}
+
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
     tauri::Builder::default()
@@ -106,6 +145,14 @@ pub fn run() {
             }
 
             let child = spawn_backend(app);
+
+            #[cfg(windows)]
+            if let Some(child) = &child {
+                if let Some(job) = bind_backend_lifetime(child.pid()) {
+                    app.manage(job);
+                }
+            }
+
             app.manage(BackendProcess(Mutex::new(child)));
 
             Ok(())
