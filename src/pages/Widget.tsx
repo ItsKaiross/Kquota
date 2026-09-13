@@ -73,7 +73,9 @@ export function Widget({ onOpenSettings }: WidgetProps) {
 
         {error && !usage && (
           <p className="text-xs text-red-500 px-1">
-            Could not reach the local usage service.
+            Could not reach the local usage service. Make sure the backend's Python
+            virtual environment is set up on this machine (see README "Running it",
+            step 2) — KQuota only auto-spawns it if <code>backend/.venv</code> already exists.
           </p>
         )}
 
