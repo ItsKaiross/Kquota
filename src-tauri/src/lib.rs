@@ -1,61 +1,31 @@
-use std::process::{Child, Command};
 use std::sync::Mutex;
 use tauri::Manager;
+use tauri_plugin_shell::process::CommandChild;
+use tauri_plugin_shell::ShellExt;
 
-struct BackendProcess(Mutex<Option<Child>>);
+struct BackendProcess(Mutex<Option<CommandChild>>);
 
-fn spawn_backend(app: &tauri::App) -> Option<Child> {
-    // Dev-mode layout: src-tauri/../backend. Packaged builds will need a
-    // bundled sidecar instead (Phase 11 packaging), tracked separately.
-    let backend_dir = app
-        .path()
-        .resource_dir()
-        .ok()
-        .map(|p| p.join("backend"))
-        .filter(|p| p.exists())
-        .unwrap_or_else(|| {
-            // `cargo run` (via `tauri dev`) has cwd = src-tauri/, so the repo's
-            // backend/ lives one level up. CARGO_MANIFEST_DIR pins this to
-            // src-tauri/ regardless of the actual invocation cwd.
-            std::path::Path::new(env!("CARGO_MANIFEST_DIR"))
-                .join("..")
-                .join("backend")
-        });
-
-    let python = if cfg!(windows) {
-        backend_dir.join(".venv/Scripts/python.exe")
-    } else {
-        backend_dir.join(".venv/bin/python")
-    };
-
-    if !python.exists() {
-        log::warn!("backend venv not found at {:?}; usage data will be unavailable", python);
-        return None;
-    }
-
-    let mut command = Command::new(python);
-    command.arg("main.py").current_dir(&backend_dir);
-
-    #[cfg(windows)]
-    {
-        // python.exe is a console-subsystem program; without this flag,
-        // Windows pops up a visible console window for it even though our
-        // own app has none (windows_subsystem = "windows" in main.rs).
-        use std::os::windows::process::CommandExt;
-        const CREATE_NO_WINDOW: u32 = 0x08000000;
-        command.creation_flags(CREATE_NO_WINDOW);
-    }
-
-    command
+fn spawn_backend(app: &tauri::App) -> Option<CommandChild> {
+    // The backend ships as a self-contained PyInstaller binary registered as a
+    // Tauri sidecar (see externalBin in tauri.conf.json), so no system Python
+    // or venv is required on the end user's machine.
+    let (_rx, child) = app
+        .shell()
+        .sidecar("kquota-backend")
+        .map_err(|e| log::error!("failed to resolve backend sidecar: {e}"))
+        .ok()?
         .spawn()
         .map_err(|e| log::error!("failed to spawn backend: {e}"))
-        .ok()
+        .ok()?;
+
+    Some(child)
 }
 
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
     tauri::Builder::default()
         .plugin(tauri_plugin_process::init())
+        .plugin(tauri_plugin_shell::init())
         .plugin(tauri_plugin_autostart::Builder::new().build())
         .plugin(tauri_plugin_window_state::Builder::default().build())
         .on_window_event(|window, event| {
@@ -112,7 +82,7 @@ pub fn run() {
         .run(|app_handle, event| {
             if let tauri::RunEvent::Exit = event {
                 if let Some(state) = app_handle.try_state::<BackendProcess>() {
-                    if let Some(mut child) = state.0.lock().unwrap().take() {
+                    if let Some(child) = state.0.lock().unwrap().take() {
                         let _ = child.kill();
                     }
                 }

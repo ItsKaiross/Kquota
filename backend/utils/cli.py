@@ -1,7 +1,13 @@
 import asyncio
 import json
 import shutil
+import sys
 from typing import Optional, TypedDict
+
+# Without this, every CLI subprocess we launch (shell=True spawns cmd.exe,
+# which is a console-subsystem program) pops up a visible console window,
+# since our own frozen backend has no console of its own to attach it to.
+_WINDOWS_NO_CONSOLE = {"creationflags": 0x08000000} if sys.platform == "win32" else {}
 
 
 class CliDetection(TypedDict):
@@ -15,6 +21,7 @@ async def _run(binary: str, args: str, timeout: float = 10) -> str:
         f'"{binary}" {args}',
         stdout=asyncio.subprocess.PIPE,
         stderr=asyncio.subprocess.PIPE,
+        **_WINDOWS_NO_CONSOLE,
     )
     stdout, stderr = await asyncio.wait_for(proc.communicate(), timeout=timeout)
     # `codex login status` (and possibly others) write to stderr rather than
@@ -49,6 +56,7 @@ async def detect_cli(binary_name: str, version_args: tuple[str, ...] = ("--versi
             *version_args,
             stdout=asyncio.subprocess.PIPE,
             stderr=asyncio.subprocess.PIPE,
+            **_WINDOWS_NO_CONSOLE,
         )
         stdout, _ = await asyncio.wait_for(proc.communicate(), timeout=5)
         version = stdout.decode(errors="ignore").strip().splitlines()[0] if stdout else None
@@ -76,7 +84,7 @@ async def start_login(provider: str) -> bool:
         return False
 
     args = "auth login" if provider == "claude" else "login"
-    proc = await asyncio.create_subprocess_shell(f'"{path}" {args}')
+    proc = await asyncio.create_subprocess_shell(f'"{path}" {args}', **_WINDOWS_NO_CONSOLE)
     # Intentionally not awaited: the OAuth flow can take as long as the user
     # needs in the browser. We only care that it launched.
     asyncio.create_task(proc.wait())
