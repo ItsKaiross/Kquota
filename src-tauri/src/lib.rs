@@ -33,9 +33,20 @@ fn spawn_backend(app: &tauri::App) -> Option<Child> {
         return None;
     }
 
-    Command::new(python)
-        .arg("main.py")
-        .current_dir(&backend_dir)
+    let mut command = Command::new(python);
+    command.arg("main.py").current_dir(&backend_dir);
+
+    #[cfg(windows)]
+    {
+        // python.exe is a console-subsystem program; without this flag,
+        // Windows pops up a visible console window for it even though our
+        // own app has none (windows_subsystem = "windows" in main.rs).
+        use std::os::windows::process::CommandExt;
+        const CREATE_NO_WINDOW: u32 = 0x08000000;
+        command.creation_flags(CREATE_NO_WINDOW);
+    }
+
+    command
         .spawn()
         .map_err(|e| log::error!("failed to spawn backend: {e}"))
         .ok()
