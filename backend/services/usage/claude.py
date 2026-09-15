@@ -7,7 +7,7 @@ from typing import Optional
 from zoneinfo import ZoneInfo
 
 from models.usage import ProviderUsage, UsageCapabilities, UsageWindow
-from utils.cli import WINDOWS_NO_CONSOLE, is_claude_logged_in
+from utils.cli import WINDOWS_NO_CONSOLE, communicate_with_timeout, is_claude_logged_in
 from utils.time import now_iso
 
 from .base import UsageProvider
@@ -103,7 +103,7 @@ class ClaudeSubscriptionProvider(UsageProvider):
                 stderr=asyncio.subprocess.PIPE,
                 **WINDOWS_NO_CONSOLE,
             )
-            stdout, _ = await asyncio.wait_for(proc.communicate(), timeout=30)
+            stdout, _ = await communicate_with_timeout(proc, 30)
             data = json.loads(stdout.decode(errors="ignore"))
             result_text = data.get("result", "")
         except Exception:

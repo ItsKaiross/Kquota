@@ -1,6 +1,7 @@
 import asyncio
 import json
 import shutil
+import sys
 from typing import Any, Optional
 
 from models.usage import ProviderUsage, UsageCapabilities, UsageWindow
@@ -73,13 +74,25 @@ async def _call_rate_limits() -> dict[str, Any]:
         return result
     finally:
         # `proc` is the cmd.exe shell wrapper on Windows (codex resolves to a
-        # .CMD shim); killing it does not reliably reap the grandchild codex.exe
-        # promptly, so cleanup is best-effort and never allowed to block the
-        # response we already have.
-        try:
-            proc.kill()
-        except ProcessLookupError:
-            pass
+        # .CMD shim); proc.kill() only terminates that shell and leaves the
+        # actual codex.exe grandchild running, orphaned, on every poll. Killing
+        # the whole process tree by PID is what actually reaps it.
+        if sys.platform == "win32":
+            try:
+                killer = await asyncio.create_subprocess_exec(
+                    "taskkill", "/F", "/T", "/PID", str(proc.pid),
+                    stdout=asyncio.subprocess.DEVNULL,
+                    stderr=asyncio.subprocess.DEVNULL,
+                    **WINDOWS_NO_CONSOLE,
+                )
+                await killer.wait()
+            except (ProcessLookupError, OSError):
+                pass
+        else:
+            try:
+                proc.kill()
+            except ProcessLookupError:
+                pass
         try:
             await asyncio.wait_for(proc.wait(), timeout=3)
         except asyncio.TimeoutError:

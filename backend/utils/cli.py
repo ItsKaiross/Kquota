@@ -18,6 +18,27 @@ class CliDetection(TypedDict):
     logged_in: bool
 
 
+async def communicate_with_timeout(
+    proc: "asyncio.subprocess.Process", timeout: float
+) -> tuple[bytes, bytes]:
+    """`asyncio.wait_for(proc.communicate(), timeout=...)` on its own leaks the
+    process on timeout: cancelling the wait_for does not touch the child, so a
+    CLI that hangs leaves an orphaned process behind on every call. This kills
+    it first so a timeout can't accumulate zombies across repeated polls."""
+    try:
+        return await asyncio.wait_for(proc.communicate(), timeout=timeout)
+    except asyncio.TimeoutError:
+        try:
+            proc.kill()
+        except ProcessLookupError:
+            pass
+        try:
+            await asyncio.wait_for(proc.wait(), timeout=3)
+        except asyncio.TimeoutError:
+            pass
+        raise
+
+
 async def _run(binary: str, args: str, timeout: float = 10) -> str:
     proc = await asyncio.create_subprocess_shell(
         f'"{binary}" {args}',
@@ -25,7 +46,7 @@ async def _run(binary: str, args: str, timeout: float = 10) -> str:
         stderr=asyncio.subprocess.PIPE,
         **_WINDOWS_NO_CONSOLE,
     )
-    stdout, stderr = await asyncio.wait_for(proc.communicate(), timeout=timeout)
+    stdout, stderr = await communicate_with_timeout(proc, timeout)
     # `codex login status` (and possibly others) write to stderr rather than
     # stdout, so both streams are checked rather than assuming stdout only.
     return stdout.decode(errors="ignore") + stderr.decode(errors="ignore")
@@ -60,7 +81,7 @@ async def detect_cli(binary_name: str, version_args: tuple[str, ...] = ("--versi
             stderr=asyncio.subprocess.PIPE,
             **_WINDOWS_NO_CONSOLE,
         )
-        stdout, _ = await asyncio.wait_for(proc.communicate(), timeout=5)
+        stdout, _ = await communicate_with_timeout(proc, 5)
         version = stdout.decode(errors="ignore").strip().splitlines()[0] if stdout else None
     except Exception:
         version = None
